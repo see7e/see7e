@@ -32,15 +32,17 @@
 
 |Rank|Books|Series/Movies|Game|Music|
 |-|-|-|-|-|
-|🥇|[Fernão Capelo Gaivota](https://en.wikipedia.org/wiki/Fern%C3%A3o_Capelo_Gaivota)|[Mr Robot](https://www.imdb.com/title/tt4158110/)|[Age of Empires II](https://www.ageofempires.com/games/aoeiide/)|[Rap](https://en.wikipedia.org/wiki/Rap_no_Brasil)|
-|🥈|[Berserk](https://en.wikipedia.org/wiki/Berserk_(mang%C3%A1)) / [Oyasumi Punpun](https://en.wikipedia.org/wiki/Oyasumi_Punpun)|[O Auto da Compadecida](https://en.wikipedia.org/wiki/O_Auto_da_Compadecida_(filme))|[RPG](https://en.wikipedia.org/wiki/Role-playing_game)|[Rock](https://open.spotify.com/playlist/37i9dQZF1EQpj7X7UK8OOF)|
-|🥉|[A Sombra do Vento](https://en.wikipedia.org/wiki/A_Sombra_do_Vento)|[Breaking Bad](https://www.imdb.com/title/tt0903747/)|[Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls)|[MPB](https://open.spotify.com/playlist/3Jnc8tKbg6B7nZy0K5lCem)|
+|🥇|[Fernão Capelo Gaivota](https://pt.wikipedia.org/wiki/Fern%C3%A3o_Capelo_Gaivota)|[Mr Robot](https://www.imdb.com/title/tt4158110/)|[Age of Empires II](https://www.ageofempires.com/games/aoeiide/)|[Rap](https://open.spotify.com/playlist/1JRfaHt2BJRudsIX4KgWXY)|
+|🥈|[Berserk](https://en.wikipedia.org/wiki/Berserk_(manga)) / [Oyasumi Punpun](https://en.wikipedia.org/wiki/Oyasumi_Punpun)|[O Auto da Compadecida](https://www.imdb.com/title/tt0271383/)|[RPG](https://en.wikipedia.org/wiki/Role-playing_game)|[Rock](https://open.spotify.com/playlist/37i9dQZF1EQpj7X7UK8OOF)|
+|🥉|[A Sombra do Vento](https://en.wikipedia.org/wiki/The_Shadow_of_the_Wind)|[Breaking Bad](https://www.imdb.com/title/tt0903747/)|[Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls)|[MPB](https://open.spotify.com/playlist/3Jnc8tKbg6B7nZy0K5lCem)|
 
 ## How to reach me
 - 💻 [LinkedIn](https://www.linkedin.com/in/gabryelnobrega/)
 - <a href="mailto:gabryelster@gmail.com">📬 Send mail</a>
 
-⚡ Fun fact: Seete is a Lizardfolk character from a special RPG campaign
+</br>
+
+⚡ Fun fact: Seete is a Lizardfolk 🐊 character from a special RPG campaign
 
 
 <!--
