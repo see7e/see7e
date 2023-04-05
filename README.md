@@ -4,9 +4,9 @@
 > "Vê mais longe a gaivota que voa mais alto</br>
     - Richard Bach"</br>
 
-[![See7es's GitHub stats](https://github-readme-stats.vercel.app/api?username=see7e&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![See7es's GitHub stats](https://github-readme-stats.vercel.app/api?username=see7e&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=see7e&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
@@ -22,8 +22,8 @@
 - Front end and
 - Back end, like servers and databates integrations
 
-<a href="https://github.com/see7e/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=see7e&repo=studies" />
+<a href="https://github.com/see7e/studies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=see7e&repo=studies&theme=radical" />
 </a>
 
 </br>
@@ -37,8 +37,7 @@
 |🥉|[A Sombra do Vento](https://en.wikipedia.org/wiki/The_Shadow_of_the_Wind)|[Breaking Bad](https://www.imdb.com/title/tt0903747/)|[Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls)|[MPB](https://open.spotify.com/playlist/3Jnc8tKbg6B7nZy0K5lCem)|
 
 ## How to reach me
-- 💻 [LinkedIn](https://www.linkedin.com/in/gabryelnobrega/)
-- <a href="mailto:gabryelster@gmail.com">📬 Send mail</a>
+[![Mini banner do LinkedIn](https://i.imgur.com/lJkkGYz.png)](https://www.linkedin.com/in/gabryelnobrega/) [![Mini banner de E-Mail](https://i.imgur.com/fgrXbFF.png)](mailto:gabryelster@gmail.com)
 
 </br>
 
