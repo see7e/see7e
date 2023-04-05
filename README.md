@@ -23,8 +23,12 @@
 - Back end, like servers and databates integrations
 
 <a href="https://github.com/see7e/studies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=see7e&repo=studies&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=see7e&repo=studies&theme=radical" />
 </a>
+
+<a href="https://github.com/see7e/42_Walkthrugh">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=see7e&repo=42_Walkthrugh&theme=radical" />
+</a> 
 
 </br>
 
