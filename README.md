@@ -14,7 +14,7 @@
 |||
 |-|-|
 |🔭| developing on [__Byon Solutions__](https://www.byonsolutions.com/)|
-|🌱| starting my studies on [__42Porto__](https://www.42porto.com/)|
+|🌱| [__42Porto__](https://www.42porto.com/) cadet!|
 
 ## 🤝 I’m looking to collaborate on
 - Product and Process documentation
