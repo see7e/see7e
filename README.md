@@ -4,6 +4,8 @@
 > "Vê mais longe a gaivota que voa mais alto</br>
     - Richard Bach"</br>
 
+## [![Discord Invite](https://dcbadge.vercel.app/api/server/tEVUKXgbUw)](https://discord.gg/tEVUKXgbUw) 🤖
+
 [![See7es's GitHub stats](https://github-readme-stats.vercel.app/api?username=see7e&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=see7e&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,12 +15,13 @@
 ## I’m currently...
 |||
 |-|-|
-|🔭| developing on [__Byon Solutions__](https://www.byonsolutions.com/)|
-|🌱| [__42Porto__](https://www.42porto.com/) cadet!|
+|🔭| developing on [__`Byon Solutions`__](https://www.byonsolutions.com/)|
+|👾| a [__`42Porto`__](https://www.42porto.com/) cadet!|
 
 ## 🤝 I’m looking to collaborate on
 - Product and Process documentation
 - Architecture and programing patterns
+- Python and [`QGis`](https://github.com/qgis/QGIS) integrations
 - Front end and
 - Back end, like servers and databates integrations
 
