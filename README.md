@@ -6,9 +6,11 @@
 
 ## [![Discord Invite](https://dcbadge.vercel.app/api/server/tEVUKXgbUw)](https://discord.gg/tEVUKXgbUw) 🤖
 
-[![See7es's GitHub stats](https://github-readme-stats.vercel.app/api?username=see7e&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=see7e&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![See7es's GitHub stats](https://github-readme-stats.vercel.app/api?username=see7e&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 </br>
 
@@ -17,6 +19,7 @@
 |-|-|
 |🔭| developing on [__`Byon Solutions`__](https://www.byonsolutions.com/)|
 |👾| a [__`42Porto`__](https://www.42porto.com/) cadet!|
+|🤓| a [__`CS50x`__](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) Harvard's student!|
 
 ## 🤝 I’m looking to collaborate on
 - Product and Process documentation
@@ -25,13 +28,22 @@
 - Front end and
 - Back end, like servers and databates integrations
 
+---
+
+<div align="center">
 <a href="https://github.com/see7e/studies">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=see7e&repo=studies&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=see7e&repo=studies&theme=radical" />
 </a>
 
 <a href="https://github.com/see7e/42_Walkthrugh">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=see7e&repo=42_Walkthrugh&theme=radical" />
-</a> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=see7e&repo=42_Walkthrugh&theme=radical" />
+</a>
+    
+<a href="https://github.com/see7e/cs50x">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=see7e&repo=cs50x&theme=radical" />
+</a>
+
+</div>
 
 </br>
 
