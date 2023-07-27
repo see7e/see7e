@@ -1,5 +1,8 @@
 ## Hello friend
-*He/They*</br>
+
+<a href="https://visitor-badge.laobi.icu/badge?page_id=see7e.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=see7e.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
+
+*He/They*
 
 > "Vê mais longe a gaivota que voa mais alto</br>
     - Richard Bach"</br>
