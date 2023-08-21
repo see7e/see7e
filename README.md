@@ -13,8 +13,8 @@
 
 <div align="center">
     
-[![Top Langs](https://github-readme-stats-see7e.vercel.app/api/top-langs/?username=see7e&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![See7es's GitHub stats](https://github-readme-stats-see7e.vercel.app/api?username=see7e&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://gh-readme-stats-see7e.vercel.app/api/top-langs/?username=see7e&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![See7es's GitHub stats](https://gh-readme-stats-see7e.vercel.app/api?username=see7e&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 </details>
@@ -43,15 +43,15 @@
 
 <div align="center">
 <a href="https://github.com/see7e/studies">
-      <img src="https://github-readme-stats-see7e.vercel.app/api/pin/?username=see7e&repo=studies&theme=radical" />
+      <img src="https://gh-readme-stats-see7e.vercel.app/api/pin/?username=see7e&repo=studies&theme=radical" />
 </a>
 
 <a href="https://github.com/see7e/42_Walkthrugh">
-    <img src="https://github-readme-stats-see7e.vercel.app/api/pin/?username=see7e&repo=42_Walkthrugh&theme=radical" />
+    <img src="https://gh-readme-stats-see7e.vercel.app/api/pin/?username=see7e&repo=42_Walkthrugh&theme=radical" />
 </a>
     
 <a href="https://github.com/see7e/cs50x">
-    <img src="https://github-readme-stats-see7e.vercel.app/api/pin/?username=see7e&repo=cs50x&theme=radical" />
+    <img src="https://gh-readme-stats-see7e.vercel.app/api/pin/?username=see7e&repo=cs50x&theme=radical" />
 </a>
 
 </div>
