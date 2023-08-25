@@ -28,7 +28,6 @@
 |-|-|
 |🔭| developing on [__`Byon Solutions`__](https://www.byonsolutions.com/)|
 |👾| a [__`42Porto`__](https://www.42porto.com/) cadet!|
-|🤓| a [__`CS50x`__](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) Harvard's student!|
 
 </div>
 
