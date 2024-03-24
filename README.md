@@ -27,7 +27,7 @@
 |||
 |-|-|
 |🔭| developing on [__`Byon Solutions`__](https://www.byonsolutions.com/)|
-|👾| a [__`42Porto`__](https://www.42porto.com/) cadet!|
+|📚| studing like crazy |
 
 </div>
 
