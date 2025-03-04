@@ -1,18 +1,3 @@
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<style>
-    .gr_grid_container {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-    }
-    .gr_grid_book_container img {
-        width: 50px;
-        height: auto;
-    }
-</style>
-
 <h2>Hello friend</h2>
 <a href="https://visitor-badge.laobi.icu/badge?page_id=see7e.visitor-badge&title=Visits">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=see7e.visitor-badge&title=Visits" align="right" alt="Visits">
