@@ -14,6 +14,7 @@
 </h2>
 
 <h2>GitHub Stats :octocat:</h2>
+
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://gh-readme-stats-sandy-six.vercel.app/api/top-langs/?username=see7e&count_private=true&layout=compact&theme=radical" alt="Top Languages">
@@ -22,6 +23,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://gh-readme-stats-sandy-six.vercel.app/api?username=see7e&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats">
     </a>
+    <br>
+    <img src="https://wakatime.com/share/@see7e/d8a5df34-155b-4b10-9e53-0343fa739552.svg" alt="Languages over Last 30 Days" width="500px">
 </div>
 
 <h2>I’m currently...</h2>
