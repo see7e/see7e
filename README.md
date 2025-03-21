@@ -91,6 +91,7 @@
 
 <h2>Recently read books</h2>
 <div align="center">
+<a title="A medida de todas as coisas" rel="nofollow" href="https://www.goodreads.com/book/show/40732889-a-medida-de-todas-as-coisas"><img alt="A medida de todas as coisas" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530893407l/40732889._SX50_.jpg" /></a>
 <a title="O Jogo do Anjo (O Cemitério dos Livros Esquecidos #2)" rel="nofollow" href="https://www.goodreads.com/book/show/6217158-o-jogo-do-anjo"><img alt="O Jogo do Anjo" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434040182l/6217158._SY75_.jpg" /></a>
 <a title="A Sombra do Vento" rel="nofollow" href="https://www.goodreads.com/book/show/12015154-a-sombra-do-vento"><img alt="A Sombra do Vento" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310424016l/12015154._SY75_.jpg" /></a>
 <a title="Sobre como lidar consigo mesmo" rel="nofollow" href="https://www.goodreads.com/book/show/175412614-sobre-como-lidar-consigo-mesmo"><img alt="Sobre como lidar consigo mesmo" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686195602l/175412614._SY75_.jpg" /></a>
