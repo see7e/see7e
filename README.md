@@ -34,6 +34,10 @@
         <td>Developing on <a href="https://www.byonsolutions.com/">Byon Solutions</a></td>
     </tr>
     <tr>
+        <th>🤝</th>
+        <td>Contributing in Open Source implementations</td>
+    </tr>
+    <tr>
         <th>📚</th>
         <td>Studying like crazy</td>
     </tr>
