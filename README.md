@@ -18,13 +18,12 @@
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://gh-readme-stats-sandy-six.vercel.app/api/top-langs/?username=see7e&count_private=true&layout=compact&theme=radical" alt="Top Languages">
-    </a>
-    <br>
+    </a> <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://gh-readme-stats-sandy-six.vercel.app/api?username=see7e&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats">
-    </a>
-    <br>
-    <img src="https://wakatime.com/share/@see7e/d8a5df34-155b-4b10-9e53-0343fa739552.svg" alt="Languages over Last 30 Days" width="500px">
+    </a> <br>
+    <img src="https://wakatime.com/share/@see7e/d8a5df34-155b-4b10-9e53-0343fa739552.svg" alt="Languages over Last 30 Days" width="500px"> <br>
+    <a href="https://gitroll.io/profile/u01wZ2GacFQSLAKOM79bh7x91mh33" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u01wZ2GacFQSLAKOM79bh7x91mh33?theme=tokyoNight" alt="GitRoll Profile Badge" width="500px"/></a>
 </div>
 
 <h2>I’m currently...</h2>
